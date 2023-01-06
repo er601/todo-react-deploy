@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-react-deploy/static/css/main.16673e79.css",
+    "main.js": "/todo-react-deploy/static/js/main.2bf84ffd.js",
+    "index.html": "/todo-react-deploy/index.html",
+    "main.16673e79.css.map": "/todo-react-deploy/static/css/main.16673e79.css.map",
+    "main.2bf84ffd.js.map": "/todo-react-deploy/static/js/main.2bf84ffd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16673e79.css",
+    "static/js/main.2bf84ffd.js"
+  ]
+}
