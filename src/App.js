@@ -20,6 +20,10 @@ function App() {
             text: 'Обновить Git',
             completed: false,
         },
+        {
+            text: 'Залил на сервер "surge"',
+            completed: false,
+        },
     ]);
 
     const onToggleCompleted = (index) => {
